@@ -1,0 +1,12 @@
+[
+  {
+    "configuration": "Baseline (données brutes)",
+    "f1_macro": 0.6741,
+    "f1_negative": 0.7379,
+    "f1_neutral": 0.5287,
+    "f1_positive": 0.7558,
+    "auc_pr": 0.7504,
+    "gmean": 0.6448,
+    "accuracy": 0.7224
+  }
+]
